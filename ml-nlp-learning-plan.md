@@ -85,4 +85,3 @@
 4. Document your code and experiments thoroughly
 5. Collaborate with your teammate, dividing tasks based on strengths
 
-Remember, the key is to practice these concepts hands-on. Good luck with your challenge!
